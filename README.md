@@ -4,6 +4,8 @@
 <h1>Good Life Music Mixer!</h1>
 Drag and drop different sound samples to make your own musical beat of the day! Select a variety of tracks to start the day!
 
+<h2>This is the final music mixer project.</h2>
+
 <h2>Collaborators:</h2>
 <ul>
 <li>Eugene Na @Gene3829</li>
